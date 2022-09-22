@@ -1,0 +1,137 @@
+Eshopers:
+
+For the Shop/Mart:
+
+1.Able to generate invoices.
+2.Your app should be able to manage the inventory of that paricular shop mart.
+3.Able to manage data of customers and their orders
+4.Able to generate the reports on daily basis,monthly,quterly and yearly basis.
+5.Able to manage all the orders(vendors order which you are going to sell)
+6.Offers(like diwali ,ganpati offer should be involved) ,discount
+7.Able to calculate gst of every product
+
+Gather requirment
+Which application should be their
+Which modules do you use.
+
+Project Apps:
+Customer_App:-create customer View here
+Orders_App:-customer order and purches order
+		
+Product_App:-inventory and vendors details
+Auth_app
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+invoice name,productname,price,productid,quantity,final amount,discount
+
+Report:
+	daily sell,on product base,
+invoice:
+	 customer.name,orders.orderid,orders.quantity,product.product.id,product.name,product.price,discount.dis,payment.amount
+Report:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+For online:
+
+
+		1.customer:customerid,name,age,gender,email,mobile,addr,city,state,postal code,country,username,password
+		2.orders: order id, product id ,customerid,quantity,priceeach,date,time,day
+		3.products: product id ,product name,unit,product image, sell price,buy price,company, available quantity,vendors_id,product type
+		4.vendors: vendor_id,name,phone no.,address,city,state,country,product
+		5.Employees: emp_id,name,salary,addr,mobile,city
+		
+
+
+
+
+
+
+
+
+
+tables:-
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
